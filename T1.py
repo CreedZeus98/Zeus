@@ -2,7 +2,7 @@ from turtle import * # import turtle module
 
 speed('fastest')
 
-side = 10
+side = 6
 size = 100
 
 # create a hexagon
