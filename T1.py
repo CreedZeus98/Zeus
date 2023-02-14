@@ -8,7 +8,7 @@ size = 100
 # create a hexagon
 for i in range(side):
     fd(size)
-    lt(360/side)
+    rt(360/side)
     write(i)
 hideturtle()            # hide turtle
 mainloop()              # keep window open
