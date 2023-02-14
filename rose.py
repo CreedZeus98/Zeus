@@ -1,6 +1,6 @@
 from turtle import *
 import turtle as tur
-tur.title("Pythontpoint")
+tur.title("ZEUS")
 tur.write("Happy Valentine Day.....!!!!",align="right",font=("Times New Roman",
                                     25, "bold"))
 # Set initial position
