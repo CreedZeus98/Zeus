@@ -2,7 +2,6 @@ from turtle import *
 
 speed("fastest")
 pencolor('black')
-fillcolor('red')
 fillcolor('Blue')
 
 for i in range(3):
