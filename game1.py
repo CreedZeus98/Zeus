@@ -9,7 +9,7 @@ vx,vy = 5, 1 # global variable                   # vx= velocity on x-axis
 
 def draw():
     screen.fill('white')
-    screen.draw. filled_rect(b, 'yellow')
+    b.draw()
 
 def update():
     global vx,vy
