@@ -1,7 +1,7 @@
 import pgzrun
 
 # add bgm Music
-music.play('xcho')
+music.play('bgm')
 
 b = Rect((100,100), (100,50))
 b = Actor('img1', (300,300))
