@@ -9,19 +9,12 @@ for i in range(3):
     for i in range(3):
         begin_fill()
         fd(100)
-        left(120)
-        fd(100)
-        left(120)
-        fd(100)
-        left(120)
+        
         for i in range(3):
             fd(100)
             left(120)
-            fd(100)
-            left(120)
-            fd(100)
-            left(120)
-end_fill()
+    left(120)
+    end_fill()
 
 hideturtle()
 mainloop()

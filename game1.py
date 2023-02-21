@@ -8,7 +8,7 @@ b = Actor('img1', (300,300))
 vx,vy = 5, 1 # global variable                   # vx= velocity on x-axis
 
 def draw():
-    screen.fill('white')
+    screen.fill('Red')
     b.draw()
 
 def update():
