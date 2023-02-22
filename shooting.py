@@ -1,7 +1,7 @@
 import  pgzrun
 import random
 
-music.play('bgm')
+music.play('bgm') 
 WIDTH = 600
 HEIGHT = 800
 MAX_BULLETS = 3
